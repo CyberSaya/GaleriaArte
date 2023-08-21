@@ -5,10 +5,6 @@ import java.sql.SQLException;
 
 //holaaa
 
-/**
- *
- * @author Diego
- */
 public class ConexionDB {
 
     private final String url;
